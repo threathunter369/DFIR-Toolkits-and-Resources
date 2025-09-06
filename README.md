@@ -2,7 +2,7 @@ DFIR-Toolkits-and-Resources
 
  A Collection of Digital Forensics & Incident Response (DFIR) toolkits that are specialized hardware/software solutions designed to acquire, preserve, and analyze digital evidence in a forensically sound manner. These toolkits are widely used by law enforcement agencies, military cyber units, and enterprise security teams worldwide due to their reliability, speed, and legal defensibility. 
 
-** 1. Write Blockers**
+ **1. Write Blockers**
 
 Tableau Forensic Bridges (TX1, T356789iu, etc.) – https://security.opentext.com/tableau
 
