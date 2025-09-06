@@ -2,7 +2,7 @@ DFIR-Toolkits-and-Resources
 
  A Collection of Digital Forensics & Incident Response (DFIR) toolkits that are specialized hardware/software solutions designed to acquire, preserve, and analyze digital evidence in a forensically sound manner. These toolkits are widely used by law enforcement agencies, military cyber units, and enterprise security teams worldwide due to their reliability, speed, and legal defensibility. 
 
- 1. Write Blockers
+** 1. Write Blockers**
 
 Tableau Forensic Bridges (TX1, T356789iu, etc.) – https://security.opentext.com/tableau
 
@@ -20,7 +20,7 @@ Voom Shadow 3 – https://voomtech.com/
 
 ➝ Hardware device that lets investigators boot and examine live systems without changing the disk.
 
-2. Forensic Imaging Devices
+**2. Forensic Imaging Devices**
 
 Tableau TX1 Forensic Imager – https://security.opentext.com/tableau
 
@@ -42,7 +42,7 @@ Magnet AXIOM Cyber – https://www.magnetforensics.com/products/magnet-axiom-cyb
 
 ➝ Software + hardware solution for imaging endpoints and collecting cloud artifacts.
 
-3. Mobile Device Forensics Hardware
+**3. Mobile Device Forensics Hardware**
 
 Cellebrite UFED – https://cellebrite.com/en/ufed/
 
@@ -64,7 +64,7 @@ Passware Kit Mobile – https://www.passware.com/kit-mobile/
 
 ➝ Password bypass and decryption solution for smartphones and cloud backups.
 
-4. Password Cracking & Crypto Analysis Hardware
+**4. Password Cracking & Crypto Analysis Hardware**
 
 Passware Decryption Accelerator – https://www.passware.com/hardware/
 
@@ -82,7 +82,7 @@ NVIDIA DGX Systems – https://www.nvidia.com/en-us/data-center/dgx/
 
 ➝ AI-grade GPU clusters sometimes repurposed for large-scale forensic password recovery.
 
-5. Network & Live Forensics Appliances
+**5. Network & Live Forensics Appliances**
 
 NIKSUN NetDetector / NetIntercept – https://www.niksun.com/
 
@@ -96,7 +96,7 @@ Cubro Packet Brokers – https://www.cubro.com/
 
 ➝ Network visibility and forensic capture devices used in lawful interception.
 
-6. Chip-Off & Hardware-Level Acquisition
+**6. Chip-Off & Hardware-Level Acquisition**
 
 TeelTech Chip-Off Forensics – https://teeltech.com/services/chip-off-forensics/
 
@@ -118,7 +118,7 @@ Octoplus Pro Box – https://octoplusbox.com/
 
 ➝ Multi-functional phone servicing and forensic-level JTAG/chip-off access tool.
 
-7. Cloud & Specialized Evidence Collection Hardware
+**7. Cloud & Specialized Evidence Collection Hardware**
 
 Wiebetech Ditto Forensic FieldStation – https://www.cru-inc.com/products/wiebetech/ditto/
 
@@ -128,7 +128,7 @@ Digital Intelligence FRED-L (Laptop variant) – https://digitalintelligence.com
 
 ➝ Ruggedized forensic laptop designed for on-scene acquisitions and analysis.
 
-8. Drone & IoT Forensics
+**8. Drone & IoT Forensics**
 
 SkySafe Drone Forensics – https://www.skysafe.io/
 
